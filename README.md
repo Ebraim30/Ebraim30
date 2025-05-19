@@ -8,10 +8,10 @@
 
 <div align="center">
   <a href="https://github.com/Ebraim30">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ebraim30&bg_color=30,6A00C9,00736E&title_color=fff&text_color=fff" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ebraim30&include_all_commits=true&bg_color=30,6A00C9,00736E&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/Ebraim30">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebraim30&layout=donut&include_all_commits=true&bg_color=141424&title_color=22A7F0&text_color=8ef5fa&icon_color=2596be)](https://github.com/Ebraim30"/ >
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebraim30&layout=donut&bg_color=141424&title_color=22A7F0&text_color=8ef5fa&icon_color=2596be)](https://github.com/Ebraim30"/ >
 </a>
 </div>
 
